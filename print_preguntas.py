@@ -4,11 +4,12 @@ def print_pregunta(enunciado, alternativas):
     
     # Imprimir enunciado y alternativas
     ###############################################################
-    pass
     
-    
-    
-    
+    print(enunciado[0],"\n")
+    opciones = ['A.', 'B.', 'C.', 'D.']
+    for opcion in zip(opciones, alternativas):
+        print(opcion[0], opcion[1][0])
+        
     ###############################################################
         
 if __name__ == '__main__':
