@@ -10,6 +10,8 @@
 - Las preguntas deben aparecer en un orden aleatorio, y además cada vez que alguien ejecute la app, las alternativas deben ser cambiadas de orden para evitar que alguien encuentre algún patrón de resolución.
 - Dado que el programa se hace bastante complejo, en una primera reunión, el project manager ha generado un backlog con tareas muy específicas, las cuales tendrán que ser desarrolladas paso a paso antes de ensamblar la app final.
 
+El proyecto final se encuentra en la siguiente página de **[GitHub](https://github.com/NestorPatricio/Quiz_app)**.
+
 Desde el ocio, **[Néstor Patricio Rojas Ríos](https://github.com/NestorPatricio)**
 
 🤘🏽 _Enjoy it!_
